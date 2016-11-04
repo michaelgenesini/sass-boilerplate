@@ -1,0 +1,3 @@
+[submodule "sass/base/sasshat"]
+	path = sass/base/sasshat
+	url = git@github.com:michaelgenesini/sasshat.git
